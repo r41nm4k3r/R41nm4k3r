@@ -12,7 +12,8 @@
 - 📫 You can visit my website. [web](https://nnyx.io)  🤩 Thanks !!! 
 ---
 
-📊 Stats
+📊 Stat
+---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
 ---
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=apprentice) 
@@ -21,7 +22,7 @@
 ---
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=apprentice)
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R41nm4k3r&theme=apprentice) 
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R41nm4k3r&theme=apprentice) 
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R41nm4k3r&theme=apprentice&utcOffset=8) 
 ---
