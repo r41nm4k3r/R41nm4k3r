@@ -21,7 +21,10 @@
 ---
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=apprentice)
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r41nm4ker&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R41nm4k3r&theme=apprentice) 
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R41nm4k3r&theme=apprentice&utcOffset=8) 
+---
 
 ### Socials
 
