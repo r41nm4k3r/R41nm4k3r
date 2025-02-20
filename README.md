@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey!+I'm+Nny+" />
 </h3>
 
-<p align="center">
-  <img src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp" width="200" />
-</p>
-
 <img align="right" alt="Coding" width="200" src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp">
 
 
