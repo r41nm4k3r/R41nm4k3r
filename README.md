@@ -14,11 +14,11 @@
 
 📊 Stat
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R41nm4k3r&theme=apprentice&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
 ---
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=apprentice) 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R41nm4k3r&theme=apprentice)](https://git.io/streak-stats)
 ---
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=apprentice)
 ---
