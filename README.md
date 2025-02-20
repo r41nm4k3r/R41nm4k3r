@@ -20,17 +20,8 @@
 📊 Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaKooLit&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaKooLit&theme=tokyonight)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JaKooLit)
-
-Or you can donate cryto on my btc wallet :)  
-> 1N3MeV2dsX6gQB42HXU6MF2hAix1mqjo8i
-
-![Bitcoin](https://github.com/user-attachments/assets/7ed32f8f-c499-46f0-a53c-3f6fbd343699)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r41nm4k3r&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=tokyonight)
 
 
 <h3 align="center">
@@ -40,7 +31,18 @@ Or you can donate cryto on my btc wallet :)
 </h3>
 
 
+
 <!--
+
+Or you can donate cryto on my btc wallet :)  
+> 1N3MeV2dsX6gQB42HXU6MF2hAix1mqjo8i
+
+![Bitcoin](https://github.com/user-attachments/assets/7ed32f8f-c499-46f0-a53c-3f6fbd343699)
+
+
+
+
+
 **r41nm4k3r/R41nm4k3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
