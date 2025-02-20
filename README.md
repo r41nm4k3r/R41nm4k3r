@@ -13,8 +13,15 @@
 ---
 
 📊 Stats
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=tokyonight) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r41nm4k3r&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r41nm4ker&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
+---
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=apprentice) 
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r41nm4k3r&theme=apprentice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+---
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=apprentice)
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r41nm4ker&theme=default) 
 
 ### Socials
 
