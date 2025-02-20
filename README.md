@@ -17,7 +17,7 @@
 - 📫 You can visit my website. [www](https://nnyx.io)  🤩 Thanks !!! 
 ---
 
-<p align=center> ### 📊 Stats </p>
+<center> ### 📊 Stats </center>
 
 --- 
   
