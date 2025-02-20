@@ -17,9 +17,9 @@
 - 📫 You can visit my website. [www](https://nnyx.io)  🤩 Thanks !!! 
 ---
 
-### 📊 Stats
+<p align=center> ### 📊 Stats
 
----
+--- 
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
 
