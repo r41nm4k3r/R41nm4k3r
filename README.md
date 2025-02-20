@@ -19,7 +19,7 @@
 
 📊 Stat
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R41nm4k3r&theme=apprentice&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=R41nm4k3r&theme=apprentice&hide_border=true&mode=weekly)(https://git.io/streak-stats)
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
 ---
