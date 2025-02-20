@@ -21,11 +21,9 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=apprentice)  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R41nm4k3r&theme=apprentice) 
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R41nm4k3r&theme=apprentice&utcOffset=8) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R41nm4k3r&theme=apprentice&utcOffset=8) 
-
-
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R41nm4k3r&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R41nm4k3r&theme=apprentice) 
 
 
 
@@ -36,7 +34,7 @@
 
 <h3 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=18&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
 
 </h3>
 
