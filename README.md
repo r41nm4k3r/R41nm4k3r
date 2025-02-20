@@ -6,8 +6,7 @@
   <img src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp" width="200" />
 </p>
 
-<video align=center src='https://vp.nyt.com/video/2023/03/07/106682_1_08Chomsky-Video_wg_1080p.mp4' width=200></video>
-<video align="right" alt="Coding" width="200" src='https://vp.nyt.com/video/2023/03/07/106682_1_08Chomsky-Video_wg_1080p.mp4'></video>
+<img align="right" alt="Coding" width="200" src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp">
 
 
 ---
