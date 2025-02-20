@@ -7,7 +7,7 @@
 </h3>
 
 
-<img align="right" alt="Coding" width="200" src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp">
+<img align="right" alt="Coding" width="300" src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp">
 
 
 ---
