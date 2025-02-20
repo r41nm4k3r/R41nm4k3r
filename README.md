@@ -7,6 +7,8 @@
 </p>
 
 <video align=center src='https://vp.nyt.com/video/2023/03/07/106682_1_08Chomsky-Video_wg_1080p.mp4' width=200></video>
+<video align="right" alt="Coding" width="200" src="https://vp.nyt.com/video/2023/03/07/106682_1_08Chomsky-Video_wg_1080p.mp4"></video>
+
 
 ---
 
