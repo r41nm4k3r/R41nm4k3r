@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey!+I'm+Nny+" />
 </h3>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=CA2232&width=435&lines=Linux+Sys+Admin+%26+WebDev;10%2B+years+of+experince;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="200" src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp">
