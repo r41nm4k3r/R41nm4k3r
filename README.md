@@ -3,8 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
-  <img src="https://vp.nyt.com/video/2023/03/07/106682_1_08Chomsky-Video_wg_1080p.mp4" width="200" />
+  <img src="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=75&auto=webp" width="200" />
 </p>
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
