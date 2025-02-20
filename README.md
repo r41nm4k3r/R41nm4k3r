@@ -39,29 +39,3 @@
 
 </h3>
 
-
-
-<!--
-
-Or you can donate cryto on my btc wallet :)  
-> 1N3MeV2dsX6gQB42HXU6MF2hAix1mqjo8i
-
-![Bitcoin](https://github.com/user-attachments/assets/7ed32f8f-c499-46f0-a53c-3f6fbd343699)
-
-
-
-
-
-**r41nm4k3r/R41nm4k3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
