@@ -20,7 +20,7 @@
 ## 📊 Stats
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R41nm4k3r&theme=apprentice) 
----
+
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r41nm4k3r&theme=apprentice) 
 ---
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r41nm4k3r&theme=apprentice)
