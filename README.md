@@ -15,8 +15,8 @@
 - 🔭 I'm an experienced SysAdmin, WebDev and a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
 - 📫 Send me your thoughts @ info@nnyx.dev & info@nnyx.io
-- 🌐 You can visit my website ➡ **[Here](https://nnyx.dev)** ⬅
-- 🌐 You can also visit my personal website ➡ **[Here](https://nnyx.io)** ⬅  Thanks !!!
+- 🌐 You can visit my website ➡ **[Here](https://nnyx.io)** ⬅
+- 🌐 You can also visit my personal website ➡ **[Here](https://nnyx.dev)** ⬅  Thanks !!!
 ---
 
 ### 📊 Stats
